@@ -1,0 +1,6 @@
+{
+  "name": "DelhiLawyers",
+  "description": "Leading legal advocacy practice and litigation counsel across Delhi NCR, Delhi High Court, Supreme Court of India, and District Courts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
